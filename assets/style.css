@@ -1,9 +1,9 @@
 body{
-    background-color:#EFABFF ;
+    background-color:#eac3f3 ;
     margin: 0;
 }
 .container{
-    background-color: #c25b94;
+    background-color: #f0bfda;
     position: relative;
     align-items: center;
     margin-top: 400px;
@@ -17,27 +17,27 @@ body{
     height: 200px;
 }
 .item-2{
-    background-color: #b90669;
+    background-color: #a04e7b;
     width: 200px;
     height: 200px;
 }
 .item-3{
-    background-color: #b90669;
+    background-color: #a16185;
     width: 200px;
     height: 200px;
 }
 .item-4{
-    background-color: #b90669;
+    background-color: #cf5f9d;
     width: 200px;
     height: 200px;
 }
 .item-5{
-    background-color: #b90669;
+    background-color: #681a45;
     width: 200px;
     height: 200px;
 }
 .item-6{
-    background-color: #b90669;
+    background-color: #500c31;
     width: 200px;
     height: 200px;
 }
