@@ -12,12 +12,13 @@ body{
 
 }
 .item-1{
-    background-color: #b90669;
+    background-color: transparent; 
+    border-top: 20px solid #b90669;
     width: 200px;
     height: 200px;
     border-radius: 50%;
     animation-name: rond;
-    animation-duration: 10s;
+    animation-duration: 4s;
     transform: rotate(360deg);
     animation-iteration-count: infinite;
 }
