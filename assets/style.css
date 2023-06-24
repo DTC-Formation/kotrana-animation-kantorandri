@@ -15,6 +15,22 @@ body{
     background-color: #b90669;
     width: 200px;
     height: 200px;
+    border-radius: 50%;
+    animation-name: rond;
+    animation-duration: 10s;
+    transform: rotate(360deg);
+    animation-iteration-count: infinite;
+}
+@keyframes rond{
+    0%{
+        rotate: 0deg;
+    }
+    50%{
+        rotate: 180deg;
+    }
+    100%{
+        rotate: 360deg;
+    }
 }
 .item-2{
     background-color: #a04e7b;
