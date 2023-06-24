@@ -1,0 +1,15 @@
+body{
+    background-color:#EFABFF ;
+    margin: 0;
+}
+.container{
+    background-color: #c25b94;
+    position: relative;
+    align-items: center;
+    margin-top: 400px;
+}
+.item{
+    background-color: #b90669;
+    width: 200px;
+    height: 200px;
+}
