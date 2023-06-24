@@ -7,6 +7,9 @@ body{
     position: relative;
     align-items: center;
     margin-top: 400px;
+    display: flex;
+    justify-content: space-between;
+
 }
 .item{
     background-color: #b90669;
