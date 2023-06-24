@@ -11,7 +11,32 @@ body{
     justify-content: space-between;
 
 }
-.item{
+.item-1{
+    background-color: #b90669;
+    width: 200px;
+    height: 200px;
+}
+.item-2{
+    background-color: #b90669;
+    width: 200px;
+    height: 200px;
+}
+.item-3{
+    background-color: #b90669;
+    width: 200px;
+    height: 200px;
+}
+.item-4{
+    background-color: #b90669;
+    width: 200px;
+    height: 200px;
+}
+.item-5{
+    background-color: #b90669;
+    width: 200px;
+    height: 200px;
+}
+.item-6{
     background-color: #b90669;
     width: 200px;
     height: 200px;
