@@ -1,15 +1,18 @@
 body{
     background-color:#eac3f3 ;
-    margin: 0;
 }
 .container{
-    background-color: #f0bfda;
+    background: #f0bfda;
+    width: auto;
+    height: auto;
     position: relative;
     align-items: center;
-    margin-top: 400px;
     display: flex;
-    justify-content: space-between;
-
+    justify-content: space-around;
+    flex-wrap: nowrap;
+    flex-direction: column;
+    overflow: hidden;
+    margin: 20px;
 }
 .item-1{
     background-color: transparent; 
@@ -40,7 +43,6 @@ body{
     background-color: #a04e7b;
     width: 200px;
     height: 200px;
-    transform: scale(2);
 }
 .item-3{
     background-color: #a16185;
