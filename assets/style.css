@@ -33,11 +33,14 @@ body{
         rotate: 360deg;
     }
 }
+.item-1:hover{
+    animation-play-state: paused;
+}
 .item-2{
     background-color: #a04e7b;
     width: 200px;
     height: 200px;
-    transform: ;
+    transform: scale(2);
 }
 .item-3{
     background-color: #a16185;
