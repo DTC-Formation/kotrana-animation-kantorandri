@@ -1,11 +1,17 @@
 body{
-    background-color:#eac3f3 ;
+    background-color:#060007 ;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
 }
-.container{
-    background: #f0bfda;
-    margin: 20px;
+.box {
     margin: 10px;
-}
+    width: min(100%, 360px);
+    height: 300px;
+    border: 1px solid #fff;
+    border-radius: 5px;
+  }
 .item-1{
     background-color: transparent; 
     border-top: 20px solid #b90669;
@@ -13,9 +19,10 @@ body{
     height: 200px;
     border-radius: 50%;
     animation-name: rond;
-    animation-duration: 4s;
+    animation-duration: 2s;
     transform: rotate(360deg);
     animation-iteration-count: infinite;
+    transition-timing-function: linear;
 }
 @keyframes rond{
     0%{
