@@ -47,8 +47,8 @@ body{
 }
 .item-2{
     background-color: #e65b0b;
-    width: 200px;
-    height: 200px;
+    width: 100px;
+    height: 100px;
     border-radius: 50%;
     animation-name: fading;
     animation-duration: 2s;
@@ -156,3 +156,108 @@ body{
       transform: scale(0);
     }
   }
+  @media only sreen
+and ( max-width: 600px){
+    item-1{
+        width: 100%;
+    }
+    item-2{
+        width: 100%;
+    }
+    item-3{
+      width: 100%;
+    }
+  item-4{
+      width: 100%;
+    }
+  item-5{
+    width: 100%;
+    }
+  item-6{
+    width: 100%;
+    }
+}
+@media only sreen
+and ( min-width: 600px){
+  item-1{
+    width: 100%;
+  }
+  item-2{
+    width: 100%;
+  }
+  item-3{
+    width: 100%;
+  }
+  item-4{
+    width: 100%;
+  }
+  item-5{
+   width: 100%;
+  }
+  item-6{
+    width: 100%;
+  }
+}
+@media only sreen
+and ( min-width: 768px){
+  item-1{
+    width: 100%;
+  }
+  item-2{
+    width: 100%;
+  }
+  item-3{
+    width: 100%;
+  }
+  item-4{
+    width: 100%;
+  }
+  item-5{
+    width: 100%;
+  }
+  item-6{
+    width: 100%;
+  }
+}
+@media only sreen
+and ( min-width: 992px){
+  item-1{
+    width: 100%;
+  }
+  item-2{
+    width: 100%;
+  }
+  item-3{
+    width: 100%;
+  }
+  item-4{
+    width: 100%;
+  }
+  item-5{
+    width: 100%;
+  }
+  item-6{
+    width: 100%;
+  }
+}
+@media only sreen
+and ( min-width: 1200px ){
+  item-1{
+    width: 100%;
+  }
+  item-2{
+    width: 100%;
+  }
+  item-3{
+    width: 100%;
+  }
+  item-4{
+   width: 100%;
+  }
+  item-5{
+    width: 100%;
+  }
+  item-6{
+    width: 100%;
+  }
+}
