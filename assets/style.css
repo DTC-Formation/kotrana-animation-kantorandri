@@ -1,9 +1,12 @@
 body{
-    background-color:#060007 ;
+    background-color:#39343a ;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 .box {
     margin: 10px;
