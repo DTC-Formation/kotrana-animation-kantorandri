@@ -201,6 +201,12 @@ and ( max-width: 600px){
   item-6{
     width: 100%;
     }
+    item-7{
+      width: 100%;
+      }
+    item-8{
+      width: 100%;
+      }
 }
 @media only sreen
 and ( min-width: 600px){
@@ -222,6 +228,12 @@ and ( min-width: 600px){
   item-6{
     width: 100%;
   }
+  item-7{
+    width: 100%;
+    }
+  item-8{
+    width: 100%;
+    }
 }
 @media only sreen
 and ( min-width: 768px){
@@ -243,6 +255,12 @@ and ( min-width: 768px){
   item-6{
     width: 100%;
   }
+  item-7{
+    width: 100%;
+    }
+  item-8{
+    width: 100%;
+    }
 }
 @media only sreen
 and ( min-width: 992px){
@@ -264,6 +282,12 @@ and ( min-width: 992px){
   item-6{
     width: 100%;
   }
+  item-7{
+    width: 100%;
+    }
+  item-8{
+    width: 100%;
+    }
 }
 @media only sreen
 and ( min-width: 1200px ){
@@ -285,4 +309,10 @@ and ( min-width: 1200px ){
   item-6{
     width: 100%;
   }
+  item-7{
+    width: 100%;
+    }
+  item-8{
+    width: 100%;
+    }
 }
