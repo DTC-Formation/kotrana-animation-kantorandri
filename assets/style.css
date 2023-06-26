@@ -21,7 +21,7 @@ body{
   }
 .item-1{
     background-color: transparent; 
-    border-top: 20px solid #b90669;
+    border-top: 20px solid #eee4e9;
     width: 200px;
     height: 200px;
     border-radius: 50%;
@@ -46,7 +46,7 @@ body{
     animation-play-state: paused;
 }
 .item-2{
-    background-color: #a04e7b;
+    background-color: #e65b0b;
     width: 200px;
     height: 200px;
     border-radius: 50%;
