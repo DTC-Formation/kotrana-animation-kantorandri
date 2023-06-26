@@ -22,8 +22,8 @@ body{
 .item-1{
     background-color: transparent; 
     border-top: 20px solid #eee4e9;
-    width: 200px;
-    height: 200px;
+    width: 150px;
+    height: 150px;
     border-radius: 50%;
     animation-name: rond;
     animation-duration: 2s;
