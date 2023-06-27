@@ -181,7 +181,7 @@ body{
       width: 100px;
     }
   }
-  @media only sreen
+  @media only screen
 and ( max-width: 600px){
     item-1{
         width: 100%;
@@ -208,7 +208,7 @@ and ( max-width: 600px){
       width: 100%;
       }
 }
-@media only sreen
+@media only screen
 and ( min-width: 600px){
   item-1{
     width: 100%;
@@ -235,7 +235,7 @@ and ( min-width: 600px){
     width: 100%;
     }
 }
-@media only sreen
+@media only screen
 and ( min-width: 768px){
   item-1{
     width: 100%;
@@ -262,7 +262,7 @@ and ( min-width: 768px){
     width: 100%;
     }
 }
-@media only sreen
+@media only screen
 and ( min-width: 992px){
   item-1{
     width: 100%;
@@ -289,7 +289,7 @@ and ( min-width: 992px){
     width: 100%;
     }
 }
-@media only sreen
+@media only scsreen
 and ( min-width: 1200px ){
   item-1{
     width: 100%;
