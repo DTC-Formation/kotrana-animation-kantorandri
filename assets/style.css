@@ -241,6 +241,9 @@ and ( max-width: 600px){
     item-8{
       width: 100%;
       }
+      item-9{
+        width: 100%;
+        }
 }
 @media only screen
 and ( min-width: 600px){
@@ -268,6 +271,9 @@ and ( min-width: 600px){
   item-8{
     width: 100%;
     }
+    item-9{
+      width: 100%;
+      }
 }
 @media only screen
 and ( min-width: 768px){
@@ -295,6 +301,9 @@ and ( min-width: 768px){
   item-8{
     width: 100%;
     }
+    item-9{
+      width: 100%;
+      }
 }
 @media only screen
 and ( min-width: 992px){
@@ -322,6 +331,9 @@ and ( min-width: 992px){
   item-8{
     width: 100%;
     }
+    item-9{
+      width: 100%;
+      }
 }
 @media only screen
 and ( min-width: 1200px ){
@@ -349,4 +361,7 @@ and ( min-width: 1200px ){
   item-8{
     width: 100%;
     }
+    item-9{
+      width: 100%;
+      }
 }
