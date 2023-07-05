@@ -173,6 +173,9 @@ body{
       animation-duration: 4s;
       animation-iteration-count: infinite;
   }
+  .item-8:hover{
+    animation-play-state: paused;
+}
   @keyframes loading{
     0% {
       transform: translateX(-5%);
