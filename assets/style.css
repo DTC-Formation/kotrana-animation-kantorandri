@@ -174,11 +174,14 @@ body{
       animation-iteration-count: infinite;
   }
   @keyframes loading{
-    from{
-      width: 0px;
+    0% {
+      transform: translateX(-5%);
     }
-    to{
-      width: 100px;
+    50% {
+      transform: translateX(0);
+    }
+    100% {
+      transform: translateX(5%);
     }
   }
   @media only screen
